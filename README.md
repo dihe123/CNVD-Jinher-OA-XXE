@@ -25,7 +25,7 @@ This vulnerability has been recorded by China National Vulnerability Database (C
 
 ## Reference
 
-- CNVD official page (if available): [link]
+- CNVD official page: [awaiting opening]
 - This repository serves as a public reference for CVE assignment request.
 
 ## Notes
